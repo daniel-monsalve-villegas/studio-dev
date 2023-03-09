@@ -1,1 +1,4 @@
-# studio-dev git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/daniel-monsalve-villegas/studio-dev.git git push -u origin main
+# Studio Dev
+Project from Make It Real camp website to students to keep improving their knowledge
+
+## Website about an agency of websites
